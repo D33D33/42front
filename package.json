@@ -1,0 +1,27 @@
+{
+  "name": "42front",
+  "version": "1.0.0",
+  "description": "42front ==========",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/D33D33/42front.git"
+  },
+  "keywords": [
+    "print",
+    "cups",
+    "printing"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/D33D33/42front/issues"
+  },
+  "homepage": "https://github.com/D33D33/42front",
+  "dependencies": {
+    "bouncy": "^3.2.2"
+  }
+}
