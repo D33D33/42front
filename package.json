@@ -22,6 +22,6 @@
   },
   "homepage": "https://github.com/D33D33/42front",
   "dependencies": {
-    "bouncy": "^3.2.2"
+    "http-proxy": "^1.6.2"
   }
 }
